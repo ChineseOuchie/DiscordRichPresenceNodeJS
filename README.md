@@ -2,3 +2,5 @@
 
 # Introduction
 This NodeJS application will update your Discord "Listening to" status with your LastFM currently playing song. 
+
+![Application image](https://imgur.com/tOTIdDD)
