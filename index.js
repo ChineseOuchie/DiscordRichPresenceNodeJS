@@ -19,7 +19,7 @@ client.on('ready', () => {
 	console.log(`Logged in as ${client.user.tag}!`);
 	trackStream.on('nowPlaying', function(track) {
 		const song = track.artist['#text'] + " - " + track.name;
-
+		console.log(song);
 		client.user.setActivity(song, { type: 'LISTENING' });
 	});
 	
