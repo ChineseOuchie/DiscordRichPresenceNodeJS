@@ -1,5 +1,5 @@
 # Discord Rich Presence Node JS
-This is agianst Discord TOS. Using it can get you banned!
+This is against Discord TOS. Using it can get you banned!
 # Introduction
 This NodeJS application will update your Discord "Listening to" status with your LastFM currently playing song. 
 
